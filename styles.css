@@ -1,8 +1,10 @@
 .container{
 	border:2px solid black;
-	text-align:center;
 	padding:60px;
 	background-color:lightblue;
 	color:purple;
 	font-size:20px;
+	width:150px;
+	text-align:center;
+	margin:140px;
 }
